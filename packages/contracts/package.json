@@ -1,0 +1,26 @@
+{
+  "name": "genie-cloned-contract",
+  "version": "0.0.1",
+  "description": "an test contract deployment for NFT crosschain swaps",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web3-guild/Genie-clone.git"
+  },
+  "keywords": [
+    "web3",
+    "NFT"
+  ],
+  "author": "Dhruv Malik (credits to Vasa from genieSwap)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/web3-guild/Genie-clone/issues"
+  },
+  "homepage": "https://github.com/web3-guild/Genie-clone#readme",
+  "dependencies": {
+    "hardhat": "^2.6.8"
+  }
+}
