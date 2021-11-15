@@ -1,7 +1,11 @@
-# useDapp
+# Genie-Clone 
 
-### Ethereum 🤝 React 
-Framework for rapid Dapp development.  
+taking the prebuild core contracts from  genie-protocol , and building an fullfledged application , providing the NFT onchain aggregration , completely decentralised and across multichain 
+
+## Status 
+
+###   🤝  
+Framework for rapid crosschain NFT exchange  development.  
 Simple. Robust. Extendable. Testable.
 
 ## About

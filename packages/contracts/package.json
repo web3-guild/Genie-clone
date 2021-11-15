@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/web3-guild/Genie-clone#readme",
   "dependencies": {
+    "@openzeppelin/contracts": "^4.3.3",
     "hardhat": "^2.6.8"
   },
   "devDependencies": {
